@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 这是我的博客，基于 jekyll。Fork的https://github.io/gaohaoyang
 
 博客访问地址：[点击这里](http://gaohaoyang.github.io)
@@ -20,9 +19,3 @@ This is a blog theme based on jekyll. You can use on your own blog. Before you u
 ## 添加了搜索框
 
 [http://codeboy.me/2016/01/18/jekyll-search-component/](http://codeboy.me/2016/01/18/jekyll-search-component/)
-
-
-
-=======
-# mbzx.github.io
->>>>>>> e23fcb7ee7ed954c76a382892a60fee8885aa594
