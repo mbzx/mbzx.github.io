@@ -1,4 +1,4 @@
-这是我的博客，基于 jekyll。Fork的https://github.io/gaohaoyang
+这是我的博客，基于 jekyll。Fork的https://github.com/gaohaoyang
 
 博客访问地址：[点击这里](http://gaohaoyang.github.io)
 
